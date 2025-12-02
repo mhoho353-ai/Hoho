@@ -1,7 +1,9 @@
-streamlit>=1.18
-pandas>=1.5
-numpy>=1.23
-plotly>=5.10
-scikit-learn>=1.1
-openpyxl>=3.0
-xlrd>=2.0
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+matplotlib
+seaborn
+scipy
+openpyxl
